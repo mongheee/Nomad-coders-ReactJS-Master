@@ -240,7 +240,7 @@
 
 - 깃 허브 배포 작업 Build
 
-  - npm i ph -page
+  - npm i gh -pages
   - npm run buiild
 
 - Update deploy and predeploy, it on the pakage.json
