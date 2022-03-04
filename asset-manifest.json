@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Nomad-coders-ReactJS-aster/static/js/main.f28d39c6.js",
-    "index.html": "/Nomad-coders-ReactJS-aster/index.html",
-    "main.f28d39c6.js.map": "/Nomad-coders-ReactJS-aster/static/js/main.f28d39c6.js.map"
+    "main.js": "/Nomad-coders-ReactJS-Master/static/js/main.b8be7289.js",
+    "index.html": "/Nomad-coders-ReactJS-Master/index.html",
+    "main.b8be7289.js.map": "/Nomad-coders-ReactJS-Master/static/js/main.b8be7289.js.map"
   },
   "entrypoints": [
-    "static/js/main.f28d39c6.js"
+    "static/js/main.b8be7289.js"
   ]
 }
