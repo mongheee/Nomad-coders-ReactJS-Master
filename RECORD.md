@@ -233,10 +233,13 @@
 
 ## install
 
+- npm install
+  -> Update packge-json module 후에 react app이 정상 동작한다.
 - npm run start
 - npm install react-router-dom
 - npm i prop-types
 - npm i styled-components
+- npm install @types/jest
 
 - 깃 허브 배포 작업 Build
 
@@ -249,6 +252,6 @@
 
 - install TypeScript
 
-  - i) npx create-react-app@5.0.0 my-app --template typescript
+  - i) npx create-react-app@5.0.0 my-app --template typescript  
     ii) npm install --save typescript @types/node @types/react @types/react-dom @types/jest
-    -> 설치 후에 tsconfig.json 설정,
+    -> 설치 후에 tsconfig.json 설정
